@@ -10,6 +10,6 @@ C Programming Tutorial
 
 <details><summary>열혈 C 프로그래밍 (윤성우 저)</summary>
 
--	[Chapter 1-11 : C 언어의 기본](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch1-11)</details>
+-	[Chapter 1-11 : C 언어의 기본](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch1-11.md)</details>
 
 ---
