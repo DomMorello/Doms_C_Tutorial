@@ -12,6 +12,8 @@ C Programming Tutorial
 
 -	[Chapter 1-11 : C 언어의 기본](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch1-11.md)
 -	[Chapter 12 : 포인터의 이해](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch12.md)
--	[Chapter 13 : 포인터와 배열](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch13.md)</details>
+-	[Chapter 13 : 포인터와 배열](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch13.md)
+-	[Chapter 14 : 포인터와 함수](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch14.md)</details>
+
 
 ---
