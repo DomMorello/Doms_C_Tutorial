@@ -17,6 +17,7 @@ C Programming Tutorial
 -	[Chapter 17 : 포인터의 포인터](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch17.md)
 -	[Chapter 18 : 다차원 배열과 포인터](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch18.md)
 -	[Chapter 19 : 함수 포인터와 void 포인터](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch19.md)
--	[Chapter 21 : 문자와 문자열 관련 함수](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch21.md)</details>
+-	[Chapter 21 : 문자와 문자열 관련 함수](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch21.md)
+-	[Chapter 22-23 : 구조체와 사용자 정의 자료형](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch22-23.md)</details>
 
 ---
