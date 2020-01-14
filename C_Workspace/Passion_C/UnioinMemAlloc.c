@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 typedef struct sbox{    //구조체 정의
+    double mem3;
     int mem1;
     int mem2;
-    double mem3;
 } Sbox;
 
 typedef union ubox{ //공용체 정의
