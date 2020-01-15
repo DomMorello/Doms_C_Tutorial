@@ -20,6 +20,7 @@ C Programming Tutorial
 -	[Chapter 21 : 문자와 문자열 관련 함수](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch21.md)
 -	[Chapter 22-23 : 구조체와 사용자 정의 자료형](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch22-23.md)
 -	[Chapter 24 : 파일 입출력](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch24.md)
--	[Chapter 25 : 메모리 관리와 메모리의 동적 할당](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch25.md)</details>
+-	[Chapter 25 : 메모리 관리와 메모리의 동적 할당](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch25.md)
+-	[Chapter 26 : 매크로와 선행처리기](https://github.com/DomMorello/Doms_C_Tutorial/blob/c/Passion_C_Programming/ch26.md)</details>
 
 ---
